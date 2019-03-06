@@ -30,3 +30,15 @@ body{
   margin-top: 8px;
   vertical-align: middle;
 }
+
+.selected {
+  background-color: #2E2E2E;
+}
+
+.kenyan, .nigerian, .school, .football, .anime, .others, .stoners, .motivational, .childhood, .politics {
+  display: none;
+}
+
+h1{
+  color: white;
+}
