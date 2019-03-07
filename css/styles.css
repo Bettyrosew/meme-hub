@@ -134,6 +134,11 @@ h1, .login-block h2, small{
   text-align: center;
 }
 
+.header h3{
+  color: white;
+  text-align: center;
+}
+
 .row {
   display: -ms-flexbox;
   display: flex;
@@ -165,6 +170,7 @@ h1, .login-block h2, small{
 
 .btn:hover {
   background-color: #2E2E2E;
+  color: red;
 }
 
 .btn.active {
